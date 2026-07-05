@@ -1,34 +1,35 @@
 <div align="center">
 
+<br/>
+
 # ⚡ VRAKON
 
-### Creating What Comes Next.
+## Creating What Comes Next.
 
-**Building intelligent technology for learning, productivity, and growth.**
+**An independent technology company building intelligent digital products for learning, productivity, and growth.**
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-vrakron--technologies-111111?style=for-the-badge)](https://vrakron-technologies.web.app/)
-[![Product](https://img.shields.io/badge/🧡_Flagship-Focera-F07A1A?style=for-the-badge)](https://thefocera.co.in/)
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-vrakron--technologies-111111?style=for-the-badge)](https://vrakron-technologies.web.app/)
+[![Flagship](https://img.shields.io/badge/🧡_FLAGSHIP-Focera-F07A1A?style=for-the-badge)](https://thefocera.co.in/)
 [![Location](https://img.shields.io/badge/📍-Ayodhya,_India-2E86DE?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/STATUS-Building-2ECC71?style=for-the-badge)]()
 
 <br/>
 
-> ### "We don't wait for the future. We create it."
+> ## "We don't wait for the future. We create it."
+
+<br/>
 
 </div>
+
+---
 
 <br/>
 
 ## 📑 Table of Contents
 
-- [About](#-about)
-- [Flagship Product](#-flagship-product)
-- [Our Principles](#-our-principles)
-- [Team](#-team)
-- [Technology Stack](#️-technology-stack)
-- [Location](#-location)
-- [Connect](#-connect)
+`About` · `Flagship Product` · `Principles` · `Team` · `Tech Stack` · `Location` · `Connect` · `Social`
 
 <br/>
 
@@ -44,9 +45,9 @@ We believe technology should help people **learn better, focus deeper, and achie
 
 <table>
 <tr>
-<td width="120" align="center">
+<td width="15%" align="center">
 
-### 🧡
+# 🧡
 
 </td>
 <td>
@@ -55,27 +56,56 @@ We believe technology should help people **learn better, focus deeper, and achie
 
 An AI-powered student productivity platform designed to make studying more effective, engaging, and rewarding.
 
+[![Website](https://img.shields.io/badge/Visit-thefocera.co.in-F07A1A?style=flat-square)](https://thefocera.co.in/)
+
 </td>
 </tr>
 </table>
 
-| | | |
-|---|---|---|
-| 🧠 AI-powered learning tools | 📚 Smart study planning | ⏱️ Focus timer & deep work sessions |
-| 🏆 Gamified progress tracking | 👥 Community study rooms | 📊 Productivity analytics |
+<div align="center">
 
-🌐 **[thefocera.co.in](https://thefocera.co.in/)**
+| 🧠 AI Learning Tools | 📚 Smart Planning | ⏱️ Focus Timer |
+|:---:|:---:|:---:|
+| **🏆 Progress Tracking** | **👥 Study Rooms** | **📊 Analytics** |
+
+</div>
 
 <br/>
 
 ## 🧱 Our Principles
 
-| Principle | What It Means |
-|---|---|
-| 🧠 **Intelligent Systems** | We build with AI at the core, not bolted on |
-| 🎨 **Human-Centered Design** | Every product is designed around real user behavior |
-| 🏗️ **Scalable Architecture** | Built to grow from day one, not rebuilt later |
-| ♟️ **Long-Term Thinking** | We optimize for durable value, not quick wins |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+**Intelligent Systems**
+AI at the core, not bolted on
+
+</td>
+<td align="center" width="25%">
+
+### 🎨
+**Human-Centered Design**
+Built around real user behavior
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️
+**Scalable Architecture**
+Built to grow from day one
+
+</td>
+<td align="center" width="25%">
+
+### ♟️
+**Long-Term Thinking**
+Optimized for durable value
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,18 +115,18 @@ An AI-powered student productivity platform designed to make studying more effec
 <tr>
 <td align="center" width="50%">
 
-### 👤
+<img src="https://img.shields.io/badge/👤-Founder-6C63FF?style=for-the-badge" /><br/><br/>
+
 **Saksham Srivastava**
-*Founder*
 
 `Product Vision` `Design` `Engineering`
 
 </td>
 <td align="center" width="50%">
 
-### 👤
+<img src="https://img.shields.io/badge/👤-Co--Founder-6C63FF?style=for-the-badge" /><br/><br/>
+
 **Piyush Kumar**
-*Co-Founder*
 
 `Operations` `Infrastructure` `Growth`
 
@@ -126,7 +156,11 @@ An AI-powered student productivity platform designed to make studying more effec
 
 ## 📍 Location
 
-Ayodhya, Uttar Pradesh, India 🇮🇳
+<div align="center">
+
+**Ayodhya, Uttar Pradesh, India** 🇮🇳
+
+</div>
 
 <br/>
 
@@ -135,7 +169,19 @@ Ayodhya, Uttar Pradesh, India 🇮🇳
 | | |
 |---|---|
 | 🌐 Website | [vrakron-technologies.web.app](https://vrakron-technologies.web.app/) |
-| 🚀 Product | [thefocera.co.in](https://thefocera.co.in/) |
+| 🚀 Flagship Product | [thefocera.co.in](https://thefocera.co.in/) |
+
+<br/>
+
+## 📲 Social Media
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-@vrakon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/REPLACE_ME)
+[![X](https://img.shields.io/badge/X-@vrakon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/REPLACE_ME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VRAKON-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vrakon)
+
+</div>
 
 <br/>
 
@@ -143,7 +189,13 @@ Ayodhya, Uttar Pradesh, India 🇮🇳
 
 <div align="center">
 
-### ⚡ VRAKON
-*Creating What Comes Next.*
+<br/>
+
+# ⚡ VRAKON
+### Creating What Comes Next.
+
+<sub>Building <a href="https://thefocera.co.in/">Focera</a> and what's next.</sub>
+
+<br/>
 
 </div>
